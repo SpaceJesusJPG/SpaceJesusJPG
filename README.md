@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-- 📫 How to reach me: https://t.me/nikitarazum or nikita.gladyshev98@mail.ru
+- 📫 How to reach me: 
+  - telegram: https://t.me/nikitarazum
+  - email: nikita.gladyshev98@mail.ru
